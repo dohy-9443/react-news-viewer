@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-news-viewer/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/react-news-viewer/static/js/main.e246d588.chunk.js",
+    "main.js.map": "/react-news-viewer/static/js/main.e246d588.chunk.js.map",
+    "runtime-main.js": "/react-news-viewer/static/js/runtime-main.408d94cb.js",
+    "runtime-main.js.map": "/react-news-viewer/static/js/runtime-main.408d94cb.js.map",
+    "static/js/2.91e9d2aa.chunk.js": "/react-news-viewer/static/js/2.91e9d2aa.chunk.js",
+    "static/js/2.91e9d2aa.chunk.js.map": "/react-news-viewer/static/js/2.91e9d2aa.chunk.js.map",
+    "index.html": "/react-news-viewer/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/react-news-viewer/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.91e9d2aa.chunk.js.LICENSE.txt": "/react-news-viewer/static/js/2.91e9d2aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.408d94cb.js",
+    "static/js/2.91e9d2aa.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.e246d588.chunk.js"
+  ]
+}
